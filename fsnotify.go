@@ -6,7 +6,7 @@
 // +build !plan9
 
 // Package fsnotify provides a platform-independent interface for file system notifications.
-package fsnotify
+package fsnotifier
 
 import (
 	"bytes"

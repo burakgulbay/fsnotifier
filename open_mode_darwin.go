@@ -5,7 +5,7 @@
 //go:build darwin
 // +build darwin
 
-package fsnotify
+package fsnotifier
 
 import "golang.org/x/sys/unix"
 

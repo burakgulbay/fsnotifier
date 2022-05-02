@@ -5,7 +5,7 @@
 //go:build solaris
 // +build solaris
 
-package fsnotify
+package fsnotifier
 
 import (
 	"errors"

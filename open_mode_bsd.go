@@ -5,7 +5,7 @@
 //go:build freebsd || openbsd || netbsd || dragonfly
 // +build freebsd openbsd netbsd dragonfly
 
-package fsnotify
+package fsnotifier
 
 import "golang.org/x/sys/unix"
 

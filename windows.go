@@ -5,7 +5,7 @@
 //go:build windows
 // +build windows
 
-package fsnotify
+package fsnotifier
 
 import (
 	"errors"

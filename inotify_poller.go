@@ -5,7 +5,7 @@
 //go:build linux
 // +build linux
 
-package fsnotify
+package fsnotifier
 
 import (
 	"errors"
